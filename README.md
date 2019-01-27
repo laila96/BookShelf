@@ -1,4 +1,4 @@
 # BookShelf
-Application web de gestion des livres avec JavaEE 
+Web application for managing books with JavaEE <br>
 
-BookShelf est une application e-commerce qui permet de consulter la liste des livres existants, choisir le bon livre et  l'acheter en passant la commande en ligne.
+BookShelf is an e-commerce application that allows you to consult the list of existing books, choose the right book and buy it by placing the order online.
